@@ -8,4 +8,4 @@ spec:
   interval: 1m0s
   ref:
     branch: 2-demo
-  url: https://github.com/jagdishmodi/bb-app-source.git
+  url: https://github.com/WIlliamGodad/bb-app-source.git
